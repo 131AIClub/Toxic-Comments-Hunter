@@ -1,9 +1,10 @@
 
 
 <div align="center">
-  <img src="12321341234.PNG" alt="" width="25%" height="25%">
+
+  <img src="icon.svg" alt="" width="25%" height="25%">
   <h1>恶评猎手</h1>
-  <h4>基于多模型融合的恶意评论打分系统</h4>
+  <h3>基于多模型融合的恶意评论打分系统</h3>
 </div>
 
 本项目为2021年第一学期自然语言课程的课程设计项目。受Kaggle平台的[恶意评价竞赛](https://www.kaggle.com/c/jigsaw-toxic-severity-rating)的启发，通过融合基于Tf-Idf的机器学习模型与基于Bert的预训练模型构建了恶意评论打分系统。团队将此系统打包为可以直接使用的应用程序，并把将实现思路投稿至arXiv网站。
@@ -36,9 +37,8 @@
 
 ### 关联项目
 
-在此项目的基础上尝试了更多预处理模型，并参与Kaggle平台的[恶意评价竞赛](https://www.kaggle.com/c/jigsaw-toxic-severity-rating)。
+在此项目的基础上尝试了更多预处理模型，并参与Kaggle平台的[恶意评价竞赛](https://www.kaggle.com/c/jigsaw-toxic-severity-rating),获得了前39%的名次。
 
-项目地址：[]()
 
 
 
