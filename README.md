@@ -3,7 +3,11 @@
 
 
 <div align="center">
+<<<<<<< HEAD
   <img src="12321341234.PNG" alt="" width="25%" height="25%">
+=======
+  <img src="https://s3.bmp.ovh/imgs/2022/02/0b66c9a35eb35fc3.png" alt="" width="25%" height="25%">
+>>>>>>> 5e15647d9d92b21c235b4a719bff75df4347a45c
   <h1>恶评猎手</h1>
   <h4>基于多模型融合的恶意评论打分系统</h4>
 </div>
