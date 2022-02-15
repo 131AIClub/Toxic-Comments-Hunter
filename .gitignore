@@ -1,0 +1,7 @@
+*.lnk
+infer_model/*
+input/*
+pic/*
+refer/
+report_latex/
+*.pdf
